@@ -2,7 +2,7 @@
 title:          "Learning Event-Specific Localization Preferences for Audio-Visual Event Localization"
 date:           2023-10-26 00:01:00 +0800
 selected:       true
-pub:            "Proceedings of the 31st ACM International Conference on Multimedia (MM, CCF-A)"
+pub:            "Proceedings of the 31st ACM International Conference on Multimedia (ACMMM, CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
