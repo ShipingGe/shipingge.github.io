@@ -6,7 +6,7 @@ pub:            "Computers & Geosciences"
 pub_date:       "2021"
 abstract: >-
   A novel network architecture named DANet is proposed for the identification of detritus from river sands.
-cover:          /assets/images/covers/cover_danet.jpg
+# cover:          /assets/images/covers/cover_danet.jpg
 authors:
 - Shiping Ge
 - Cong Wang
