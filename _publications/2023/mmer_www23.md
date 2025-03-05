@@ -6,7 +6,7 @@ pub:            "Proceedings of the ACM Web Conference (WWW)"
 pub_date:       "2023"
 abstract: >-
   We design a simple encoder-decoder style multi-modal emotion recognition model, and combine it with our specially-designed adversarial training strategies to learn more robust multi-modal representation for multi-label emotion recognition.
-cover:          /assets/images/covers/cover_mmer.pdf
+cover:          /assets/images/covers/mmer_www23.pdf
 authors:
 - Shiping Ge
 - Zhiwei Jiang
