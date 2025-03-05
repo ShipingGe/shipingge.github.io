@@ -2,7 +2,7 @@
 title:          "A Debiased Nearest Neighbors Framework for Multi-Label Text Classification"
 date:           2024-08-6 00:01:00 +0800
 selected:       false
-pub:            "arXiv:2408.03202"
+pub:            "arXiv:2408.03202 "
 pub_post:       'Under review.'
 pub_date:       "2024"
 
