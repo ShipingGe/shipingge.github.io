@@ -10,7 +10,7 @@ pub_date:       "2023"
 
 abstract: >-
   We propose a new event-aware double-branch localization paradigm to utilize event preferences for more accurate audio-visual event localization.
-cover:          /assets/images/covers/avel_mm23.pdf
+cover:          /assets/images/covers/avel_mm23.jpg
 authors:
   - Shiping Ge
   - Zhiwei Jiang
