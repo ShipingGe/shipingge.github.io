@@ -1,8 +1,8 @@
 ---
 title:          "Multi-Prompting Decoder Helps Better Language Understanding"
-date:           2023-01-1 00:01:00 +0800
+date:           2024-06-10 00:01:00 +0800
 selected:       false
-pub:            "arXiv:2406.06279"
+pub:            "arXiv:2406.06279 "
 pub_post:       'Under review.'
 pub_date:       "2024"
 
