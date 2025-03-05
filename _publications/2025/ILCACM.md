@@ -3,7 +3,7 @@ title:          "Implicit Location-Caption Alignment via Complementary Masking f
 date:           2025-4-1 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2025"
 
 abstract: >-
