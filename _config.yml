@@ -36,5 +36,5 @@ timezone: Asia/Shanghai
 
 collections:
   - publications
-  - news
+  # - news
   - showcase
