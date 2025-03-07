@@ -42,10 +42,14 @@ education:
 - name: Nanjing University
   logo: /assets/images/badges/nju-emblem-purple.jpg
   position: >- 
-    School of Computer Science <br/>
+    Department of Computer Science and Technology <br/>
     M.S. Student
   date: Sep. 2019 - Jun. 2021
+
+- name: Nanjing University
+  logo: /assets/images/badges/nju-emblem-purple.jpg
   position: >- 
+    School of Computer Science <br/>
     Ph.D. Student
   date: Sep. 2021 - present
   
