@@ -42,16 +42,16 @@ education:
 - name: Nanjing University
   logo: /assets/images/badges/nju-emblem-purple.jpg
   position: >- 
-    Department of Computer Science and Technology <br/>
-    M.S. Student
-  date: Sep. 2019 - Jun. 2021
-
-- name: Nanjing University
-  logo: /assets/images/badges/nju-emblem-purple.jpg
-  position: >- 
     School of Computer Science <br/>
     Ph.D. Student
   date: Sep. 2021 - present
+  
+- name: Nanjing University
+  logo: /assets/images/badges/nju-emblem-purple.jpg
+  position: >- 
+    Department of Computer Science and Technology <br/>
+    M.S. Student
+  date: Sep. 2019 - Jun. 2021
   
 - name: Nantong University
   logo: /assets/images/badges/ntu-emblem.jpg
@@ -72,6 +72,8 @@ awards:
 - name: Yingcai Scholarship of Nanjing University, First Prize
   date: 2024
 - name: Huawei Scholarship of Nanjing University
+  date: 2023
+- name: Outstanding Postgraduate Student of Nanjing University
   date: 2023
 - name: Yingcai Scholarship of Nanjing University, Second Prize
   date: 2021
