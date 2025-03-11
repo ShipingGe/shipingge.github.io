@@ -16,6 +16,6 @@ authors:
   - Zifeng Cheng
   - Qing Gu
 links:
-  Paper: https://dl.acm.org/journal/tomm
+  Paper: https://dl.acm.org/doi/10.1145/3722223
   Code: https://github.com/ShipingGe/FGAN
 ---
