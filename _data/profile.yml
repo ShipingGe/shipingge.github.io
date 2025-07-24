@@ -23,7 +23,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
   I earned my Ph.D. in Software Engineering from the School of Computer Science at Nanjing University in June 2025. 
-  I had the privilege of being supervised by Professor [Qing Gu (顾庆)](https://isetnju.github.io/guq/index.html) and Assistant Professor [Zhiwei Jiang (蒋智威)](https://zhiweinju.github.io/). 
+  I had the privilege of being supervised by Professor <a href="https://isetnju.github.io/guq/index.html" target="_blank">Qing Gu (顾庆)</a> and Assistant Professor <a href="https://zhiweinju.github.io/" target="_blank">Zhiwei Jiang (蒋智威)</a>.
   Prior to my doctoral studies, I completed my B.Sc. in Network Engineering at Nantong University in 2019. 
   Subsequently, I pursued an M.Sc. in Computer Technology at Nanjing University, where I successfully transitioned to the doctoral program in 2021. 
   My research is centered on multimodal video understanding and analysis.
