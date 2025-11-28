@@ -57,16 +57,6 @@ education:
     # B.S. in Network Engineering
   # date: Sep. 2015 - Jun. 2019
 
-experience:
-- name: Tencent WeChat
-  logo: /assets/images/badges/wechat_symbol.png
-  position: Research Intern
-  date: May. 2023 - Jan. 2025
-- name: Nanjing University of Posts and Telecommunications
-  logo: /assets/images/badges/njupt.png
-  position: Lecturer
-  date: Nov. 2025 - Present
-
 awards:
 - name: Nomination Award for Outstanding Doctoral Dissertation of the School of Computer Science, Nanjing University
   date: 2025
@@ -80,3 +70,13 @@ awards:
   date: 2023
 - name: Outstanding Postgraduate Student of Nanjing University
   date: 2023
+
+experience:
+- name: Tencent WeChat
+  logo: /assets/images/badges/wechat_symbol.png
+  position: Research Intern
+  date: May. 2023 - Jan. 2025
+- name: Nanjing University of Posts and Telecommunications
+  logo: /assets/images/badges/njupt.png
+  position: Lecturer
+  date: Nov. 2025 - Present
